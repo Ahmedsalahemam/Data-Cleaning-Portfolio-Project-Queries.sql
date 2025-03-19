@@ -5,15 +5,18 @@ In collaboration with Alex the Analyst, we focus on essential SQL techniques to 
 
 🧑‍🔬
 Removing duplicates with DISTINCT or ROW_NUMBER()
-❌
-Handling missing values using COALESCE or ISNULL
+
 🔄
+
 Correcting data types with CAST and CONVERT
 🚨 
+
 Identifying and removing outliers with custom SQL logic
 🧹 
+
 Data normalization and transformation through SQL functions
 ⚙️
+
 Efficient data filtering using WHERE, JOIN, and GROUP BY clauses
 This project provides real-world examples of SQL techniques for cleaning messy data, helping you get your datasets ready for analysis and reporting. 📊
 
