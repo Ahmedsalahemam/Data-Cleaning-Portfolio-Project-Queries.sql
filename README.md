@@ -3,7 +3,8 @@ Welcome to the Data Cleaning with SQL project! 🚀 In this repository, we dive 
 
 In collaboration with Alex the Analyst, we focus on essential SQL techniques to tackle common data cleaning tasks, such as:
 
-🧑‍🔬 Removing duplicates with DISTINCT or ROW_NUMBER()
+🧑‍🔬
+Removing duplicates with DISTINCT or ROW_NUMBER()
 ❌ Handling missing values using COALESCE or ISNULL
 🔄 Correcting data types with CAST and CONVERT
 🚨 Identifying and removing outliers with custom SQL logic
